@@ -10,4 +10,11 @@ online.net
 ovh
 aws
 microsoft
+hosthatch	
+firstheberg
+hostsailor
+netcup	
+arubacloud	
+ikoula	
+veesp
 
