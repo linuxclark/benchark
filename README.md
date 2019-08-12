@@ -7,3 +7,7 @@ hetzner
 upcloud
 vultr
 online.net
+ovh
+aws
+microsoft
+
